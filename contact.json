@@ -1,0 +1,14 @@
+{
+  "FirstName": "Yegor",
+  "LastName": "Ius",
+  "ContactType": "COMPANY",
+  "OrganizationName": "yegorski",
+  "AddressLine1": "345 E 93rd ST",
+  "City": "New York",
+  "State": "NY",
+  "CountryCode": "US",
+  "ZipCode": "10128",
+  "PhoneNumber": "+1.6463631992",
+  "Email": "yegor@yegorius.com",
+  "ExtraParams": []
+}
